@@ -1,0 +1,14 @@
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\bin\Debug\net8.0\ConsoleChatApp.exe
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\bin\Debug\net8.0\ConsoleChatApp.deps.json
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\bin\Debug\net8.0\ConsoleChatApp.runtimeconfig.json
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\bin\Debug\net8.0\ConsoleChatApp.dll
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\bin\Debug\net8.0\ConsoleChatApp.pdb
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.AssemblyInfoInputs.cache
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.AssemblyInfo.cs
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.dll
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\obj\Debug\net8.0\refint\ConsoleChatApp.dll
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.pdb
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\obj\Debug\net8.0\ConsoleChatApp.genruntimeconfig.cache
+C:\Users\Hewlett Packard\Desktop\CCCR\TEC\Estructura y Datos I\ConsoleChatApp\obj\Debug\net8.0\ref\ConsoleChatApp.dll
